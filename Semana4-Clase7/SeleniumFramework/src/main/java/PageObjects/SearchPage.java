@@ -15,9 +15,6 @@ public class SearchPage extends BaseClass {
     private By productThumb = By.cssSelector(".product-thumb");
     private By noResultsSelector = By.id("content");
 
-    //WebElement searchInput = driver.findElement(By.name("search"));
-    //searchInput.sendKeys(searchCriteria, Keys.ENTER);
-
     public SearchPage(WebDriver _driver){ super.driver = _driver; }
 
     public void searchByEnter(String searchCriteria){ driver.findElement(searchInput).sendKeys(searchCriteria, Keys.ENTER);}
