@@ -1,0 +1,28 @@
+{
+  "dataSet": [
+    {
+      "product" : "MacBook",
+      "usdPrice" : "$602.00",
+      "poundPrice" : "£454.10",
+      "eurPrice" : "518.16€"
+    },
+    {
+      "product" : "iPhone",
+      "usdPrice" : "$123.20",
+      "poundPrice" : "£92.93",
+      "eurPrice" : "106.04€"
+    },
+    {
+      "product" : "Apple Cinema 30\"",
+      "usdPrice" : "$110.00",
+      "poundPrice" : "£82.98",
+      "eurPrice" : "94.68€"
+    },
+    {
+      "product" : "Canon EOS 5D",
+      "usdPrice" : "$98.00",
+      "poundPrice" : "£73.92",
+      "eurPrice" : "84.35€"
+    }
+  ]
+}
